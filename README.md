@@ -27,4 +27,4 @@ I am a **Computer Science Student** (3rd year of Bachelor University of Technolo
 * **DevOps & OS:** Docker, Linux
 * **Version Control:** Git, GitHub
 * **Database:** SQL, Database Creation & Management
-* **Design & Management:** Figma, Jira, Notion, Trello
+* **Design & Management:** Canva, Figma, Jira, Notion, Trello
