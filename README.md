@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Milann! ⛷️
 
-<!--
-**jetfilou/jetfilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student** (3rd year of Bachelor University of Technology in Computer Science) at **IUT Amiens**, France.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages
+* C / C++ / C#
+* Java
+* Python
+* PHP
+* Lua
+* Bash
+
+### 🌐 Frontend Development
+* HTML / CSS
+* JavaScript / TypeScript
+
+### 🛠️ Frameworks
+* **React**
+* **Next.js**
+* **Node.js**
+* **Laravel (PHP)**
+* **Tailwind CSS**
+
+### ⚙️ Tools, Database & Environment
+* **DevOps & OS:** Docker, Linux
+* **Version Control:** Git, GitHub
+* **Database:** SQL, Database Creation & Management
+* **Design & Management:** Figma, Jira, Notion, Trello
