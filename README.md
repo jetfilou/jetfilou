@@ -1,6 +1,6 @@
 # Hi there, I'm Milann! ⛷️
 
-I am a **Computer Science Student** (3rd year of Bachelor University of Technology in Computer Science) at **IUT Amiens**, France.
+I'm a **Computer Science Student** at **University of Picardie Jules Verne**, France.
 
 ---
 
@@ -18,6 +18,7 @@ I am a **Computer Science Student** (3rd year of Bachelor University of Technolo
 
 ### 🛠️ Frameworks
 * **React**
+* **.NET**
 * **Next.js**
 * **Node.js**
 * **Laravel (PHP)**
